@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2022-08-29T09:00:02-04:00</CreationDate>
+      <FileVersion>1.1</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.19</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="6.126745" Lat="46.250179" Alt="1388.00"/>
+      <Start>22</Start>
+      <Type>Runway</Type>
+      <Heading>225.451</Heading>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Geneva</Name>
+        <Ident>LSGG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="6.109445" Lat="46.238335" Alt="1388.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>LAKEG1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.169142" Lat="46.278957" Alt="2813.43"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>LAKEG2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.240189" Lat="46.327137" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>LAKEG3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.315720" Lat="46.382465" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>LAKEG4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.503817" Lat="46.394306" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>LAKEG5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.743800" Lat="46.441879" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>VALLY1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.893017" Lat="46.391716" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>VALLY2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.002297" Lat="46.216667" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>VALLY3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.058408" Lat="46.119061" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>VALLY4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.076605" Lat="46.116680" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>VALLY5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.239903" Lat="46.191299" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Sion</Name>
+        <Ident>LSGS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.326944" Lat="46.219166" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>VALLY6</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.590519" Lat="46.301525" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Turtmann Mil</Name>
+        <Ident>LSMJ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.714224" Lat="46.304562" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>VALLY7</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.767239" Lat="46.310776" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>BRIG1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.884828" Lat="46.296543" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>BRIG2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.996236" Lat="46.311131" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>BRIG3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.017178" Lat="46.337330" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>SOC115</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.173586" Lat="46.423008" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Munster Airport</Name>
+        <Ident>LSPU</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.263333" Lat="46.480000" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CA060</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.357092" Lat="46.536961" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CA065</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.362328" Lat="46.543247" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CA070</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.360739" Lat="46.549950" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CA080</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.354656" Lat="46.558712" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CA085</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.379236" Lat="46.570042" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA1-1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.383400" Lat="46.580280" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA1-2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.382627" Lat="46.602249" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA1-3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.400394" Lat="46.622063" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA1-4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.390822" Lat="46.635235" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA1-5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.389922" Lat="46.643604" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA1-6</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.384000" Lat="46.647167" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA1-7</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.377261" Lat="46.663132" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA1-8</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.364775" Lat="46.674118" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLAKE</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.358464" Lat="46.690105" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>SAIL1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.352972" Lat="46.697670" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>SAIL2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.334434" Lat="46.703968" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>SAIL3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.329625" Lat="46.710354" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>SOC085</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.322997" Lat="46.717651" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CA055</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.339947" Lat="46.732979" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CA070</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.372478" Lat="46.738625" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>CA085</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.407583" Lat="46.755798" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA2-1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.432878" Lat="46.762707" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GLA2-2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.446722" Lat="46.768852" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>SOC100</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.456181" Lat="46.770779" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GROSS1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.513903" Lat="46.782108" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GROSS2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.523367" Lat="46.782135" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GROSS3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.536500" Lat="46.787601" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>GROSS4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.525169" Lat="46.795124" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ENGEL1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.460969" Lat="46.794418" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ENGEL2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.417194" Lat="46.817566" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ENGEL3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.376339" Lat="46.826260" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ENGEL4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.367756" Lat="46.849861" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ENGEL5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.375139" Lat="46.877327" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ENGEL6</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.391103" Lat="46.897152" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ENGEL7</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.396511" Lat="46.927349" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>STANS1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.383120" Lat="46.964207" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>STANS2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.464830" Lat="46.983883" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>STANS3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.468092" Lat="47.009521" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>STANS4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.376253" Lat="47.018768" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>STANS5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.478736" Lat="47.117802" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ZURI1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.510494" Lat="47.174664" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>ZURI2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.567570" Lat="47.252728" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>INIT</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.630055" Lat="47.337776" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>FINAL</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.590231" Lat="47.396027" Alt="2454.11"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Flughafen Zürich</Name>
+        <Ident>LSZH</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.547886" Lat="47.458397" Alt="1399.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

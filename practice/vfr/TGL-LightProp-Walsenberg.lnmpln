@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>7000</CruisingAlt>
+      <CreationDate>2022-08-21T19:51:45-04:00</CreationDate>
+      <FileVersion>1.1</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.19</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>Cessna Skyhawk G1000 Asobo.lnmperf</FilePath>
+      <Type>Skyhawk</Type>
+      <Name>Cessna Skyhawk G1000 Asobo</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="-104.790558" Lat="37.697010" Alt="6038.00"/>
+      <Start>09</Start>
+      <Type>Runway</Type>
+      <Heading>93.7853</Heading>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Spanish Peaks Airfield</Name>
+        <Ident>4V1</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-104.784805" Lat="37.696606" Alt="6038.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>T-1a</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.795967" Lat="37.697304" Alt="6256.06"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>T-1b</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.802620" Lat="37.695705" Alt="6391.47"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>T-1c</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.804832" Lat="37.691021" Alt="6514.56"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>T-1d</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.801483" Lat="37.688065" Alt="6612.29"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>TOC</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.782043" Lat="37.684872" Alt="6999.02"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>T-2a</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.706223" Lat="37.678116" Alt="7000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>T-2b</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.696732" Lat="37.680286" Alt="7000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>T-2c</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.692665" Lat="37.684975" Alt="7000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>T-2d</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.694809" Lat="37.691360" Alt="7000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>TOD</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-104.705765" Lat="37.693619" Alt="7000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Spanish Peaks Airfield</Name>
+        <Ident>4V1</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-104.784805" Lat="37.696606" Alt="6038.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
