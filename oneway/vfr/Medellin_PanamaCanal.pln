@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SKRG to MPEJ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>SKRG</DepartureID>
+        <DepartureLLA>N6° 10' 2.63",W75° 25' 10.84",+006996.00</DepartureLLA>
+        <DestinationID>MPEJ</DestinationID>
+        <DestinationLLA>N9° 21' 38.00",W79° 52' 2.01",+000027.00</DestinationLLA>
+        <Descr>SKRG, MPEJ</Descr>
+        <DeparturePosition>PARKING 22</DeparturePosition>
+        <DepartureName>Jose Maria Cordova</DepartureName>
+        <DestinationName>Enrique Adolfo Jimenez</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SKRG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N6° 9' 52.06",W75° 25' 22.79",+006996.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKRG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RNG">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N5° 58' 50.00",W75° 25' 6.01",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>SK</ICAORegion>
+                <ICAOIdent>RNG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Versalles">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N5° 57' 59.53",W75° 35' 23.38",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Caldas">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N6° 5' 39.10",W75° 37' 59.11",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKLC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N7° 48' 42.30",W76° 42' 59.18",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKLC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N7° 46' 26.33",W77° 14' 18.39",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPPI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 6' 26.10",W77° 43' 32.55",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPPI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MP26">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 13' 29.14",W78° 54' 15.96",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MP26</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N9° 6' 34.01",W79° 41' 22.31",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N9° 7' 2.40",W79° 47' 39.25",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N9° 15' 15.64",W79° 55' 0.13",+007189.83</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N9° 17' 54.17",W79° 48' 18.93",+004340.97</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="IF18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N9° 25' 21.82",W79° 51' 55.75",+001027.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="RW18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N9° 22' 21.89",W79° 52' 1.02",+000027.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPEJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 21' 38.00",W79° 52' 2.01",+000027.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPEJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

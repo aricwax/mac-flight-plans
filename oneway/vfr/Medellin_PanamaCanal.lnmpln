@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>10000</CruisingAlt>
+      <CreationDate>2022-09-17T20:57:04-07:00</CreationDate>
+      <FileVersion>1.1</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.19</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>Daher TBM 930 can.lnmperf</FilePath>
+      <Type>TBM9</Type>
+      <Name>TBM 930 Canada</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="-75.423241" Lat="6.180072" Alt="6996.00"/>
+      <Start>19</Start>
+      <Type>Runway</Type>
+      <Heading>179.509</Heading>
+    </Departure>
+    <Procedures>
+      <Approach>
+        <Name>MPEJ18</Name>
+        <Runway>18</Runway>
+        <Type>CUSTOM</Type>
+        <CustomDistance>3.00</CustomDistance>
+        <CustomAltitude>1000.00</CustomAltitude>
+      </Approach>
+    </Procedures>
+    <Waypoints>
+      <Waypoint>
+        <Name>Jose Maria Cordova</Name>
+        <Ident>SKRG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-75.422997" Lat="6.164461" Alt="6996.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Rionegro Medellin</Name>
+        <Ident>RNG</Ident>
+        <Region>SK</Region>
+        <Type>VOR</Type>
+        <Pos Lon="-75.418335" Lat="5.980556" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Versalles</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-75.589828" Lat="5.966535" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Caldas</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-75.633087" Lat="6.094194" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Antonio Roldan Betancourt</Name>
+        <Ident>SKLC</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-76.716438" Lat="7.811750" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-77.238441" Lat="7.773979" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>El Real Airport</Name>
+        <Ident>MPPI</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-77.725708" Lat="8.107251" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Punta Cocos</Name>
+        <Ident>MP26</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-78.904434" Lat="8.224760" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-79.689529" Lat="9.109447" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-79.794235" Lat="9.117333" Alt="10000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-79.916702" Lat="9.254345" Alt="7189.83"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="-79.805260" Lat="9.298381" Alt="4340.97"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Enrique Adolfo Jimenez</Name>
+        <Ident>MPEJ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="-79.867226" Lat="9.360556" Alt="27.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
