@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LSZA to LSGG</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>15000</CruisingAlt>
+        <DepartureID>LSZA</DepartureID>
+        <DepartureLLA>N46° 0' 10.90",E8° 54' 30.08",+000897.00</DepartureLLA>
+        <DestinationID>LSGG</DestinationID>
+        <DestinationLLA>N46° 14' 18.00",E6° 6' 34.00",+001388.00</DestinationLLA>
+        <Descr>LSZA, LSGG</Descr>
+        <DeparturePosition>PARKING 42</DeparturePosition>
+        <DepartureName>Lugano Airport</DepartureName>
+        <DestinationName>Geneva</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LSZA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 0' 13.69",E8° 54' 32.36",+000897.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSZA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Arcisate">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 51' 25.29",E8° 51' 58.22",+004773.07</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Voltorre">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 50' 3.95",E8° 44' 21.70",+007132.83</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Mergozzo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 57' 42.63",E8° 26' 56.16",+013316.31</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Vergonte">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 1' 1.04",E8° 16' 20.15",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Castiglion">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 1' 12.17",E8° 13' 7.78",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Battiggio">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 59' 5.18",E8° 7' 27.64",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pestarena">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 57' 37.27",E8° 0' 41.93",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Superiore">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 58' 21.71",E7° 57' 12.28",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Fillarhorn">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 57' 47.49",E7° 52' 49.64",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Glacier 1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 58' 37.27",E7° 48' 40.89",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Glacier 2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 58' 26.37",E7° 45' 11.42",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Valley Doo">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 59' 40.87",E7° 43' 34.91",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Zermatt">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 1' 58.14",E7° 45' 25.84",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Tasch">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 4' 6.81",E7° 46' 39.09",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sankt Nikl">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 10' 44.61",E7° 48' 16.13",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Valley 2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 12' 23.61",E7° 49' 43.65",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Stalden">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 13' 56.68",E7° 52' 11.32",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Visp">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 17' 54.02",E7° 53' 13.83",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Turtmann">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 40.26",E7° 44' 44.84",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Park">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 18' 34.80",E7° 36' 46.39",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Sion">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 13' 44.40",E7° 21' 28.50",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Saillon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 9' 52.45",E7° 11' 19.79",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Martigny">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 6' 33.41",E7° 4' 25.09",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Saint Maur">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 12' 36.13",E7° 0' 27.65",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Collombey">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 17' 13.79",E6° 57' 29.63",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Le Bouvere">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 23' 31.69",E6° 52' 36.92",+015000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="Lausanne">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 29' 44.00",E6° 37' 47.64",+013177.55</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="SPR">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N46° 28' 7.29",E6° 26' 53.00",+009881.41</WorldPosition>
+            <ICAO>
+                <ICAORegion>LS</ICAORegion>
+                <ICAOIdent>SPR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Nyon">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N46° 22' 35.40",E6° 16' 34.59",+006018.81</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LSGG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 14' 18.00",E6° 6' 34.00",+001388.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LSGG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

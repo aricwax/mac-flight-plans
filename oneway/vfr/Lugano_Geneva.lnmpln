@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>15000</CruisingAlt>
+      <CreationDate>2022-09-18T18:21:55-07:00</CreationDate>
+      <FileVersion>1.1</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.19</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <AircraftPerformance>
+      <FilePath>Daher TBM 930 can.lnmperf</FilePath>
+      <Type>TBM9</Type>
+      <Name>TBM 930 Canada</Name>
+    </AircraftPerformance>
+    <Departure>
+      <Pos Lon="8.908356" Lat="46.003029" Alt="897.00"/>
+      <Start>PARKING 42</Start>
+      <Type>Parking</Type>
+      <Heading>199.09</Heading>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Lugano Airport</Name>
+        <Ident>LSZA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.908989" Lat="46.003803" Alt="897.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Arcisate</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.866172" Lat="45.857025" Alt="4773.07"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Voltorre</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.739361" Lat="45.834431" Alt="7132.83"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Mergozzo</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.448934" Lat="45.961842" Alt="13316.31"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Vergonte</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.272264" Lat="46.016956" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Castiglione</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.218828" Lat="46.020046" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Battiggio</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.124345" Lat="45.984772" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Pestarena</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.011647" Lat="45.960354" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Superiore</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.953411" Lat="45.972698" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Fillarhorn</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.880455" Lat="45.963192" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Glacier 1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.811358" Lat="45.977020" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Glacier 2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.753172" Lat="45.973991" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Valley Door</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.726364" Lat="45.994686" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Zermatt</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.757178" Lat="46.032818" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Tasch</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.777525" Lat="46.068558" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sankt Niklaus</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.804481" Lat="46.179058" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Valley 2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.828792" Lat="46.206558" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Stalden</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.869811" Lat="46.232410" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Visp</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.887175" Lat="46.298340" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Turtmann</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.745789" Lat="46.311184" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Park</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.612886" Lat="46.309666" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Sion</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.357917" Lat="46.229000" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Saillon</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.188830" Lat="46.164570" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Martigny</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.073636" Lat="46.109280" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Saint Maurice</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.007680" Lat="46.210037" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Collombey</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.958230" Lat="46.287163" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Le Bouveret</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.876922" Lat="46.392136" Alt="15000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Lausanne</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.629900" Lat="46.495556" Alt="13177.55"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>St Prex</Name>
+        <Ident>SPR</Ident>
+        <Region>LS</Region>
+        <Type>VOR</Type>
+        <Pos Lon="6.448056" Lat="46.468693" Alt="9881.41"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>Nyon</Ident>
+        <Type>USER</Type>
+        <Pos Lon="6.276275" Lat="46.376499" Alt="6018.81"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Geneva</Name>
+        <Ident>LSGG</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="6.109445" Lat="46.238335" Alt="1388.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>
