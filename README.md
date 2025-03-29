@@ -7,7 +7,7 @@ Bewbs
 # Files
 
  - `oneway/` : One-way flights
-   - `vfr/`  : VFR ibe-way flights 
+   - `vfr/`  : VFR one-way flights 
      - `GenevaAlpsZurich.lnmpln` : Geneva-Alps-Zurich source flight plan
      - `WalsenburgPagosa.lnmpln` : Walsenburg-Pagosa source flight plan
 
